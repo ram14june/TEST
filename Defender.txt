@@ -1,0 +1,4 @@
+powershell -ExecutionPolicy Bypass -File C:\script\Disable.ps1
+
+
+powershell -ExecutionPolicy Bypass -File C:\script\Enable.ps1
